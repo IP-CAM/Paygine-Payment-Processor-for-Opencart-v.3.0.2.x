@@ -5,7 +5,7 @@ $_['heading_title']			= 'Paygine (Credit Card / Debit Card)';
 // Text
 $_['text_payment']			= 'Payment';
 $_['text_success']			= 'Changes are applied';
-$_['text_paygine']			= '<a onclick="window.open(\'http://www.paygine.net/\');"><img src="view/image/payment/paygine.png" alt="Paygine" title="Paygine" style="border: 1px solid #EEEEEE;" /><br /></a>';
+$_['text_paygine']			= '<a onclick="window.open(\'http://www.paygine.ru/\');"><img src="view/image/payment/paygine.png" alt="Paygine" title="Paygine" style="border: 1px solid #EEEEEE;" /><br /></a>';
 
 // Entry
 $_['entry_sector']			= 'Sector ID';

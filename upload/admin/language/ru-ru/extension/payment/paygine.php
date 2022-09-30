@@ -5,7 +5,7 @@ $_['heading_title']			= 'Paygine (Дебетовая / Кредитная кар
 // Text
 $_['text_payment']			= 'Оплата';
 $_['text_success']			= 'Изменения применены';
-$_['text_paygine']			= '<a onclick="window.open(\'http://www.paygine.net/\');"><img src="view/image/payment/paygine.png" alt="Paygine" title="Paygine" style="border: 1px solid #EEEEEE;" /><br /></a>';
+$_['text_paygine']			= '<a onclick="window.open(\'http://www.paygine.ru/\');"><img src="view/image/payment/paygine.png" alt="Paygine" title="Paygine" style="border: 1px solid #EEEEEE;" /><br /></a>';
 
 // Entry
 $_['entry_sector']			= 'Sector ID';
